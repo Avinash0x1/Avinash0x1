@@ -55,27 +55,6 @@ I'm a passionate **Cybersecurity Professional** and **Security Tool Developer** 
 - 📋 Inventory management system
 - 🎯 Target scope generation
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avinash0x1&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash0x1&layout=compact&theme=react"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash0x1&theme=react" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avinash0x1&theme=nord&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinash0x1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
 ## 🎯 Current Focus
 
 - 🔍 **Bug Bounty**: Actively hunting on major platforms
